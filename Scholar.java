@@ -19,7 +19,7 @@ public class Scholar {
     @Column(name = "inumber")
     private String inumber;
 
-    @Column(name = "scholar_name")
+    @Column(name = "Scholar_Name")
     private String name;
 
     @Embedded
